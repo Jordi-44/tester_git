@@ -1,0 +1,26 @@
+:root {
+    --rose-pastel: #f8c8dc; 
+  }
+  
+  body {
+    background-color: var(--rose-pastel);
+  }
+  
+  header, footer {
+    background-color: #fff;
+    color: #333;
+  }
+  
+  .badge.bg-primary {
+    background-color: #f497b6 !important; 
+  }
+  
+  .btn-outline-secondary {
+    border-color: #f497b6;
+    color: #f497b6;
+  }
+  
+  .btn-outline-secondary:hover {
+    background-color: #f497b6;
+    color: white;
+  }
